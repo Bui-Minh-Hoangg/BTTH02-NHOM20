@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>APTECH</title>
+    <link rel="stylesheet" href="CSS\intro.css">
+
+  </head>
+  <body>
+    <div class="header">
+      <div class="tonghop">
+        <div class="logo">
+          <img src="IMG\LOGO-APTECH-03-02-1.png" />
+        </div>
+        <div class="navbar">
+          <ul class="nav_menu">
+            <li class="menu">
+              <a href="" style="color: #5b9717">TRANG CHỦ</a>
+            </li>
+            <li class="menu">
+              <a href=""><HANOI-CAR></HANOI-CAR><i class="fa-solid fa-angle-down"></i></a>
+              <ul class="sub-menu">
+                <li><a href="">Giới thiệu sản phẩm</a></li>
+                <li><a href="">Kiểu dáng</a></li>
+                <li><a href="">Giá</a></li>
+                <li><a href="">Hỏi đáp</a></li>
+              </ul>
+            </li>
+            <li>
+              <a class="menu" href=""
+                >Sản Phẩm<i class="fa-solid fa-angle-down"></i
+              ></a>
+              <ul class="sub-menu">
+                <li><a href="">Đa dụng</a></li>
+                <li><a href="">Bán tải</a></li>
+                <li><a href="">Thương mại</a></li>
+              </ul>
+            </li>
+            <li class="menu"><a href="">Tin tức khuyến mãi</a></li>
+            <li class="menu">
+              <a href="">Công Nghệ<i class="fa-solid fa-angle-down"></i></a>
+              <ul class="sub-menu">
+                <li><a href="">Hybird</a></li>
+                <li><a href="">TSS</a></li>
+                <li><a href="">TNga</a></li>
+              </ul>
+            </li>
+            <li class="menu">
+              <a href="">Dịch vụ<i class="fa-solid fa-angle-down"></i></a>
+              <ul class="sub-menu">
+                <li><a href="">Dịch vụ bảo dưỡng</a></li>
+                <li><a href="">Sản phẩm chính hãng</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div>
+      <p>27/02/2022</p>
+      <a href="https://car.vn/category/hanoicar">HanoiCAR</a>
+    </div>
+    <div>
+      <button>Thích</button>
+      <button>Chia Sẻ</button>
+    </div>
+    <main>
+      <h2>HANOI CAR - Sự tin tưởng của quý khách là niềm vui với chúng tôi</h2>
+      <p>Ra đời từ năm 2001 HANOI CAR tự hào là nhà cung cấp xe ô tô chính hãng và chất lượng hàng đầu tại Việt Nam cấp bằng Quốc tế. </p>
+      <h3>MỘT SỐ THÀNH TỰU CỦA HANOI CAR</h3>
+    </main>
+  </body>
+</html>
